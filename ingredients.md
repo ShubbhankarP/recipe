@@ -1,5 +1,5 @@
 Ingredients:
-Water
+Hot Water
 Noodles
 Taste Maker
 Vegetables
