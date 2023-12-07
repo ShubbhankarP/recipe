@@ -4,6 +4,6 @@
 2.How to cook noodles in *2 minutes*
 3.fast to cook and good to eat
 
-![recipe.jpg] (Desktop/recipe/recipe.jpg)
+!recipe.jpg (Desktop/recipe/recipe.jpg)
 
 ### This is a LOCAL change :)
